@@ -5,6 +5,9 @@ package com.jaybella;
  * Abstract Data type.
  * LIFO , Last in First Out
  * Push adds item at the top of the stack
+ * Pop removes an item at the top of the stack
+ * peek gets the top item without popping it
+ * ideal backing datastructure :LinkedList
  **/
 public class StackDataStructure {
 }
