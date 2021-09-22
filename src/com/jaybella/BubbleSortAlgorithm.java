@@ -2,6 +2,10 @@ package com.jaybella;
 
 /**
  * @author momondi  on 9/15/2021
+ * Defining time complexity can be estimated by number of steps we are taking.
+ *
+ * Bubble sort algorithms like this one has time complexity , quadratic time complexity O(n^2)
+ * If you have 1 loop in your algorithm then possibly its O(n), linear.
  **/
 public class BubbleSortAlgorithm {
     public BubbleSortAlgorithm(){
